@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/pvthang1609/design_pattern/issues"
   },
-  "homepage": "https://github.com/pvthang1609/design_pattern#readme"
+  "homepage": "https://github.com/pvthang1609/design_pattern#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
 }
